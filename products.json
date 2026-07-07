@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ebook-basic",
+    "name": "Premium PDF Guide",
+    "description": "A digital PDF product delivered instantly after crypto confirmation.",
+    "price": 10,
+    "filePath": "files/sample-product.txt"
+  },
+  {
+    "id": "license-key-pack",
+    "name": "License Key Pack",
+    "description": "Example key delivery product. Replace keys in products.json.",
+    "price": 15,
+    "keys": [
+      "REPLACE-WITH-YOUR-FIRST-KEY",
+      "REPLACE-WITH-YOUR-SECOND-KEY"
+    ]
+  }
+]
